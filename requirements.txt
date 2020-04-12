@@ -1,0 +1,5 @@
+pymysql==0.9.3
+requests==2.14.2
+beautifulsoup4==4.7.1
+chardet==3.0.4
+tldextract==2.2.2
